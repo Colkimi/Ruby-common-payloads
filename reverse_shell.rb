@@ -1,7 +1,7 @@
 require 'socket'
 require 'open3'
 
-# Replace with your IP and port
+# Replace with your IP and por
 host = "YOUR_IP"
 port = 4444
 
