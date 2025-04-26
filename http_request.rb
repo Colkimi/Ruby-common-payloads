@@ -1,4 +1,4 @@
-require 'net/http
+require 'net/http'
 
 # Test for SSRF (Server-Side Request Forgery)
 url = URI.parse("http://internal-server.local/admin")
